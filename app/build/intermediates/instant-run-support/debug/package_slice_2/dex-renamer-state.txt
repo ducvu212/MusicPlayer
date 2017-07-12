@@ -1,0 +1,4 @@
+#Fri May 19 08:06:36 ICT 2017
+base.0=D\:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=D\:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\minhd\\.android\\build-cache\\68b5f263b3dd710939104b542cf635a8c3f7cec9\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\minhd\\.android\\build-cache\\68b5f263b3dd710939104b542cf635a8c3f7cec9\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\minhd\\.android\\build-cache\\68b5f263b3dd710939104b542cf635a8c3f7cec9\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\minhd\\.android\\build-cache\\68b5f263b3dd710939104b542cf635a8c3f7cec9\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

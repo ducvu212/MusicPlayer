@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:9:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\minhd\.android\build-cache\dc66c4e4352c5b623cc304b59a63e1f689e2a6e2\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\minhd\.android\build-cache\8e189b391c1543ef53bc4c2fe7198d3c71513df8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\minhd\.android\build-cache\68b5f263b3dd710939104b542cf635a8c3f7cec9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\minhd\.android\build-cache\78f92c81996aff07f08b59a1db9756400e47e195\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\minhd\.android\build-cache\c71efe300d7110a691310e6f4bc32fc639646c5b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\minhd\.android\build-cache\891e9cd1ae14d281d8f2e7c10165c7595cb9e2e7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\minhd\.android\build-cache\507c9b8c83d7fd75a1a1070304b06b1d759e6387\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\minhd\.android\build-cache\2ba408c316096d7b19ff4d37b9fad3b0b1f0e9cc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\minhd\.android\build-cache\c6e1ba44220759e7a6e58cf6b135265838191778\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\minhd\.android\build-cache\791eba7f73a0ef77482ada008ffd57f2fc1c4515\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\minhd\.android\build-cache\115a96c12070c97cc0d857e3421e832f5aa5b479\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\minhd\.android\build-cache\d830cea5d557f80afc5828dd639fed61252b9c23\output\AndroidManifest.xml:29:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\minhd\.android\build-cache\8d3d6d7b79c5dff5ebdfade7a4d3d610764c4200\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:10:42-87
+	android:allowBackup
+		ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:9:18-44
+	android:icon
+		ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:9:45-79
+	android:theme
+		ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:11:36-67
+activity#com.example.admin.mp3player.Common.MainActivity
+ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:12:9-14:20
+	android:name
+		ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:12:19-54
+activity#com.example.admin.mp3player.Common.LoadingAct
+ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:16:19-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\minhd\.android\build-cache\dc66c4e4352c5b623cc304b59a63e1f689e2a6e2\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\minhd\.android\build-cache\8e189b391c1543ef53bc4c2fe7198d3c71513df8\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\minhd\.android\build-cache\68b5f263b3dd710939104b542cf635a8c3f7cec9\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\minhd\.android\build-cache\78f92c81996aff07f08b59a1db9756400e47e195\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\minhd\.android\build-cache\c71efe300d7110a691310e6f4bc32fc639646c5b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\minhd\.android\build-cache\4ee6c6d6b708dd839a599ba846574a5e77178574\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\minhd\.android\build-cache\891e9cd1ae14d281d8f2e7c10165c7595cb9e2e7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\minhd\.android\build-cache\507c9b8c83d7fd75a1a1070304b06b1d759e6387\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\minhd\.android\build-cache\2ba408c316096d7b19ff4d37b9fad3b0b1f0e9cc\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\minhd\.android\build-cache\c6e1ba44220759e7a6e58cf6b135265838191778\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\minhd\.android\build-cache\791eba7f73a0ef77482ada008ffd57f2fc1c4515\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\minhd\.android\build-cache\115a96c12070c97cc0d857e3421e832f5aa5b479\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\minhd\.android\build-cache\d830cea5d557f80afc5828dd639fed61252b9c23\output\AndroidManifest.xml:21:5-23:58
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\minhd\.android\build-cache\8d3d6d7b79c5dff5ebdfade7a4d3d610764c4200\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\minhd\.android\build-cache\8e189b391c1543ef53bc4c2fe7198d3c71513df8\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\AndroidStudio_Project\Mp3PlayerVer2\Mp3Player\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\minhd\.android\build-cache\8e189b391c1543ef53bc4c2fe7198d3c71513df8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\minhd\.android\build-cache\68b5f263b3dd710939104b542cf635a8c3f7cec9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\minhd\.android\build-cache\78f92c81996aff07f08b59a1db9756400e47e195\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\minhd\.android\build-cache\c71efe300d7110a691310e6f4bc32fc639646c5b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\minhd\.android\build-cache\4ee6c6d6b708dd839a599ba846574a5e77178574\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\minhd\.android\build-cache\891e9cd1ae14d281d8f2e7c10165c7595cb9e2e7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\minhd\.android\build-cache\507c9b8c83d7fd75a1a1070304b06b1d759e6387\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\minhd\.android\build-cache\2ba408c316096d7b19ff4d37b9fad3b0b1f0e9cc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\minhd\.android\build-cache\c6e1ba44220759e7a6e58cf6b135265838191778\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\minhd\.android\build-cache\791eba7f73a0ef77482ada008ffd57f2fc1c4515\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\minhd\.android\build-cache\115a96c12070c97cc0d857e3421e832f5aa5b479\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\minhd\.android\build-cache\d830cea5d557f80afc5828dd639fed61252b9c23\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\minhd\.android\build-cache\8e189b391c1543ef53bc4c2fe7198d3c71513df8\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\minhd\.android\build-cache\8e189b391c1543ef53bc4c2fe7198d3c71513df8\output\AndroidManifest.xml:26:9-47

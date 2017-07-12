@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\icfavalbum.png",
+        "source": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\src\\main\\res\\drawable-xxxhdpi\\icfavalbum.png"
+    },
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\relevancy.png",
+        "source": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\src\\main\\res\\drawable-xxxhdpi\\relevancy.png"
+    },
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\repeat96.png",
+        "source": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\src\\main\\res\\drawable-xxxhdpi\\repeat96.png"
+    },
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\icplayerprev.png",
+        "source": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\src\\main\\res\\drawable-xxxhdpi\\icplayerprev.png"
+    },
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\icplayershuffle.png",
+        "source": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\src\\main\\res\\drawable-xxxhdpi\\icplayershuffle.png"
+    },
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\icnotifpause.png",
+        "source": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\src\\main\\res\\drawable-xxxhdpi\\icnotifpause.png"
+    },
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\icnotifnext.png",
+        "source": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\src\\main\\res\\drawable-xxxhdpi\\icnotifnext.png"
+    },
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\musical.png",
+        "source": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\src\\main\\res\\drawable-xxxhdpi\\musical.png"
+    },
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\musicblue512.png",
+        "source": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\src\\main\\res\\drawable-xxxhdpi\\musicblue512.png"
+    },
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\icnotifplay.png",
+        "source": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\src\\main\\res\\drawable-xxxhdpi\\icnotifplay.png"
+    },
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\playerzingmp3.png",
+        "source": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\src\\main\\res\\drawable-xxxhdpi\\playerzingmp3.png"
+    },
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\icnotifprev.png",
+        "source": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\src\\main\\res\\drawable-xxxhdpi\\icnotifprev.png"
+    },
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\speaker96.png",
+        "source": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\src\\main\\res\\drawable-xxxhdpi\\speaker96.png"
+    },
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\playlist96.png",
+        "source": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\src\\main\\res\\drawable-xxxhdpi\\playlist96.png"
+    },
+    {
+        "merged": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\play96.png",
+        "source": "D:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\src\\main\\res\\drawable-xxxhdpi\\play96.png"
+    }
+]

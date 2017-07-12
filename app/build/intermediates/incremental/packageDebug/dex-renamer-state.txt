@@ -1,0 +1,7 @@
+#Fri May 19 08:18:52 ICT 2017
+base.0=D\:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_59229ea2866d4932ed6c30a34ad463986f193258
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_270f3f6c31a8da8c58416dd81f8787cf2592f9e8\\classes.dex
+base.1=D\:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_270f3f6c31a8da8c58416dd81f8787cf2592f9e8
+file.0=D\:\\code\\AndroidStudio_Project\\Mp3PlayerVer2\\Mp3Player\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_59229ea2866d4932ed6c30a34ad463986f193258\\classes.dex
